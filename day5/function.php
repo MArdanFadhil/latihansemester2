@@ -40,5 +40,5 @@ function hari($tanggal){
     }
 }
 
-hari('25-01-2024');
+echo hari('25-01-2024');
 ?>
